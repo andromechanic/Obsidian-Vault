@@ -5,3 +5,6 @@
 - [[Unsupervised Learning]]
 - [[Semi- Supervised Learning]]
 - [[Reinforced Learning]]
+
+
+Update check
