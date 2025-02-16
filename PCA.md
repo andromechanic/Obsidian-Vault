@@ -2,6 +2,7 @@
 tags:
   - IITM/MLT
 Date: 16-02-2025 13:05
+back links: "[[PCA Material]]"
 ---
 
 ## PCA
