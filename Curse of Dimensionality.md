@@ -1,3 +1,8 @@
+---
+tags:
+  - ML
+Date: 16-02-2025 13:52
+---
 ## **Curse of Dimensionality**
 
 The **Curse of Dimensionality** refers to the problems that arise when working with high-dimensional data. As the number of features (dimensions) increases, data points become sparse, distances become meaningless, and machine learning models struggle to perform well.
@@ -10,7 +15,12 @@ When we add more features (dimensions) to a dataset:
 
 1. **Increased Sparsity** – Data points become more spread out, making it hard to find meaningful patterns.
 2. **Higher Computational Cost** – More dimensions mean more memory and processing power required.
-3. **Overfitting** – More features allow the model to fit noise instead of the actual data patterns.
+3. **Overfitting** – More features allow the mod
+## Curse of Dimensionality
+
+---
+
+el to fit noise instead of the actual data patterns.
 4. **Distance Measures Become Less Useful** – In high dimensions, distances between all points tend to become similar, making distance-based algorithms (like k-NN, K-Means) ineffective.
 
 ---
