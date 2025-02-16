@@ -183,11 +183,3 @@ torch.tensor([1,2,3], device = device)
 # required for the gradient tracking
 Z = torch.tensor(2.0, requires_grad=True)
 ```
-
-
-```python
-```
-
-
-```python
-```
