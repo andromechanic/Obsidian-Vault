@@ -10,13 +10,13 @@ Date: 16-02-2025 13:05
 
 ### **Principal Component Analysis (PCA)**
 
-PCA (Principal Component Analysis) is a dimensionality reduction technique used in machine learning and statistics. It helps simplify complex datasets by reducing the number of features (dimensions) while preserving as much important information (variance) as possible.
+PCA (Principal Component Analysis) is a [[dimensionality reduction]] technique used in machine learning and statistics. It helps simplify complex datasets by reducing the number of features (dimensions) while preserving as much important information (variance) as possible.
 
 ---
 
 ## **Why Do We Need PCA?**
 
-1. **Curse of Dimensionality** – When we have too many features, models become slow, overfit, and hard to interpret.
+1. **[[Curse of Dimensionality]]** – When we have too many features, models become slow, overfit, and hard to interpret.
 2. **Data Visualization** – PCA helps in reducing high-dimensional data (e.g., 100 features) into 2D or 3D for visualization.
 3. **Noise Reduction** – By focusing on the most important patterns in data, PCA can remove noise.
 4. **Better Model Performance** – Reducing redundant features can improve machine learning model efficiency.
