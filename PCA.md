@@ -62,7 +62,7 @@ This tells us if variables move together (positive covariance) or in opposite di
 
 ### **3. Eigenvalues & Eigenvectors**
 
-For the covariance matrix CC, we solve:
+For the covariance matrix $C$, we solve:
 
 $Cv = \lambda v$
 
