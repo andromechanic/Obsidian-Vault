@@ -4,7 +4,7 @@ tags:
 Date: 10-06-2025 18:10
 ---
 
-## Text Vectorization for [NLP]
+## Text Vectorization for [[NLP]]
 
 ---
 

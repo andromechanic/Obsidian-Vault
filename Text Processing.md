@@ -4,7 +4,7 @@ tags:
 Date: 10-06-2025 18:06
 ---
 
-## Text processing for [NLP]
+## Text processing for [[NLP]]
 
 ---
 

@@ -7,7 +7,7 @@ Date: 10-06-2025 16:11
 ## Introduction
 
 ---
-## 1. What is Natural Language Processing ([NLP])?
+## 1. What is Natural Language Processing (NLP)?
 
 - **Definition:** NLP is a subfield of computer science, linguistics, and artificial intelligence (AI) concerned with the interactions between computers and human (natural) languages.
     

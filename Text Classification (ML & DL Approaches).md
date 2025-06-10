@@ -9,7 +9,7 @@ Date: "10-06-2025 18:33"
 
 # Text Classification (ML & DL Approaches)
 
-These notes summarize the principles of text classification, a fundamental supervised learning task in [NLP]. They cover both traditional Machine Learning (ML) and modern Deep Learning (DL) approaches.
+These notes summarize the principles of text classification, a fundamental supervised learning task in [[NLP]]. They cover both traditional Machine Learning (ML) and modern Deep Learning (DL) approaches.
 
 > **Key Idea:** Text Classification is the process of assigning a piece of text to one or more predefined categories. The core challenge is to build a model that understands the text and makes accurate predictions.
 

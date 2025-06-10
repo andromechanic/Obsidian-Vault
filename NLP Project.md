@@ -3,7 +3,7 @@ tags:
 Date: "10-06-2025 18:48"
 ---
 
-## [NLP] Project
+## [[NLP]] Project
 
 ---
 

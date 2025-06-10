@@ -104,4 +104,4 @@ Because the learned vectors capture meaning, they also capture relationships bet
     - Adjusting the context window size.
         
 
-> **Conclusion:** Word Embeddings like Word2Vec represent a major leap forward from simple frequency counts. By learning from context, they create rich, dense representations of words that capture semantic meaning, enabling more sophisticated and nuanced [NLP] applications.
+> **Conclusion:** Word Embeddings like Word2Vec represent a major leap forward from simple frequency counts. By learning from context, they create rich, dense representations of words that capture semantic meaning, enabling more sophisticated and nuanced [[NLP]] applications.

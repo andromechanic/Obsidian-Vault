@@ -10,7 +10,7 @@ Date: 10-06-2025 18:01
 
 ## The 5 Stages of an NLP Pipeline
 
-Building a robust [NLP] application involves more than just training a model. It's a systematic process that can be divided into five key stages, each with its own set of techniques and considerations.
+Building a robust [[NLP]] application involves more than just training a model. It's a systematic process that can be divided into five key stages, each with its own set of techniques and considerations.
 
 1. **Data Acquisition**
     
