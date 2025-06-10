@@ -30,6 +30,9 @@ Building a robust [[NLP]] application involves more than just training a model. 
 This is the foundational step. The principle of "garbage in, garbage out" applies here; the quality and quantity of your data will determine the ceiling for your model's performance.
 
 - **Internal Data:** Data that is already available within your organization (e.g., customer reviews, support tickets, internal documents). This is often the most valuable and relevant data as it directly pertains to the business problem.
+     - Table - Can proceed with next step
+     - Database - Discuss with data engineering team and get tables
+     - Less data - Data Augmentation ie.  generating synthetic data(synonyms, bigram flip, back translate, additional noise)
     
 - **External Data:** When internal data is insufficient, you can acquire it from external sources:
     
