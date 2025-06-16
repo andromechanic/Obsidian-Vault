@@ -36,11 +36,7 @@ Types of Fine-Tuning:
 - Parameter-Efficient Fine-Tuning (PEFT): Only a small subset of the model's parameters are updated, or new, smaller modules are added and trained. This significantly reduces computational resources and memory requirements, making fine-tuning more accessible.
     
 
-### 
-
----
-
-2. Quantization
+### 2. Quantization
 
 Concept: Quantization is a technique used to reduce the memory footprint and computational cost of an LLM by converting its numerical representations (typically weights and activations) from a higher precision format (e.g., 32-bit floating-point) to a lower precision format (e.g., 16-bit floating-point, 8-bit integer, 4-bit integer). This process essentially compresses the model without significant loss in performance.
 
