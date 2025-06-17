@@ -1,6 +1,7 @@
 ---
-tags: 
-Date: "16-06-2025 10:30"
+tags:
+  - finetuning
+Date: 16-06-2025 10:30
 ---
 
 ## LoRA

@@ -1,6 +1,7 @@
 ---
-tags: 
-Date: "16-06-2025 10:31"
+tags:
+  - finetuning
+Date: 16-06-2025 10:31
 ---
 
 ## QLoRA
@@ -9,10 +10,10 @@ Date: "16-06-2025 10:31"
 
 ## QLoRA (Quantized Low-Rank Adaptation)
 
-Concept: QLoRA is an extension of LoRA that further optimizes memory usage by combining it with quantization techniques. Specifically, QLoRA quantizes the base LLM's weights to a very low precision (e.g., 4-bit) while still performing LoRA fine-tuning on top.
+Concept: [[QLoRA]] is an extension of [[LoRA]] that further optimizes memory usage by combining it with quantization techniques. Specifically, QLoRA quantizes the base LLM's weights to a very low precision (e.g., 4-bit) while still performing LoRA fine-tuning on top.
 
 How it Works:
-
+ 
 QLoRA uses 4-bit NormalFloat (NF4) quantization, which is a data type optimized for normally distributed data, providing better precision than standard 4-bit integers.
 
 The key innovation is "double quantization," where the quantization constants themselves are quantized, saving even more memory.

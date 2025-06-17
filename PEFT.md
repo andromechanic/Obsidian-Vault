@@ -1,6 +1,7 @@
 ---
-tags: 
-Date: "16-06-2025 10:32"
+tags:
+  - finetuning
+Date: 16-06-2025 10:32
 ---
 
 ## PEFT
@@ -24,7 +25,7 @@ Why PEFT?
 
 Common PEFT Techniques:
 
-- LoRA (Low-Rank Adaptation): (Already explained in detail) Injects trainable low-rank matrices into existing layers.
+- [[LoRA]] (Low-Rank Adaptation): Injects trainable low-rank matrices into existing layers.
     
 - Prefix Tuning: Adds a small, task-specific, trainable "prefix" to the input sequence of the Transformer model. The main model weights remain frozen.
     

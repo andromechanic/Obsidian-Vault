@@ -1,6 +1,6 @@
 
 
-### Datasets for Fine-tuning
+### Datasets for [[Fine-tuning]]
 
 Concept: The quality and quantity of the fine-tuning dataset are paramount to the success of the fine-tuning process. The dataset should be carefully curated to reflect the target task and desired output format.
 
