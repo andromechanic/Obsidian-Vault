@@ -19,9 +19,9 @@ So, the effective weight matrix becomes W′=W0​+BA.
 
 - W0​ is the original, frozen pre-trained weight matrix.
     
-- A is a low-rank matrix of shape (d,r), where d is the input dimension and r is the chosen rank (r≪min(din​,dout​)).
+- A is a low-rank matrix of shape $(d,r)$, where d is the input dimension and r is the chosen rank $(r≪min(din​,dout​))$.
     
-- B is a low-rank matrix of shape (r,dout​), where dout​ is the output dimension.
+- B is a low-rank matrix of shape $(r,dout​)$, where $dout​$ is the output dimension.
     
 
 Only the matrices A and B are trained during fine-tuning. The rank r is a crucial hyperparameter; a smaller r means fewer trainable parameters but might limit expressiveness.
