@@ -2,6 +2,7 @@
 tags:
   - finetuning
 Date: 16-06-2025 10:31
+back links: "[[Quantization]]"
 ---
 
 ## QLoRA

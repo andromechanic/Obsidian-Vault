@@ -34,7 +34,7 @@ Types of Fine-Tuning:
 
 - Full Fine-tuning: All parameters of the pre-trained model are updated. This is computationally expensive and requires significant memory.
     
-- Parameter-Efficient Fine-Tuning ([[PEFT]]): Only a small subset of the model's parameters are updated, or new, smaller modules are added and trained. This significantly reduces computational resources and memory requirements, making fine-tuning more accessible.
+- Parameter-Efficient Fine-Tuning (PEFT): Only a small subset of the model's parameters are updated, or new, smaller modules are added and trained. This significantly reduces computational resources and memory requirements, making fine-tuning more accessible.
     
 
 ### 2. [[Quantization]]
