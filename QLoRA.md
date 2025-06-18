@@ -10,7 +10,7 @@ Date: 16-06-2025 10:31
 
 ## QLoRA (Quantized Low-Rank Adaptation)
 
-Concept: [[QLoRA]] is an extension of [[LoRA]] that further optimizes memory usage by combining it with quantization techniques. Specifically, QLoRA quantizes the base LLM's weights to a very low precision (e.g., 4-bit) while still performing LoRA fine-tuning on top.
+Concept: [[QLoRA]] is an extension of [[LoRA]] also called as LoRA 2.0, that further optimizes memory usage by combining it with quantization techniques. Specifically, QLoRA quantizes the base LLM's weights to a very low precision (e.g., 4-bit) while still performing LoRA fine-tuning on top.
 
 How it Works:
  
